@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//nuthan
 #define MAX_PATIENTS 100
 #define MAX_DOCTORS 50
 
