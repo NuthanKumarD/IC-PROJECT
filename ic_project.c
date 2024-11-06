@@ -116,7 +116,7 @@ void searchDoctor() {
     printf("Name: %s\n", d.name);
     printf("Specialization: %s\n", d.specialization);
 }
-//MANTHAN
+//MANTHAN NAYAK
 int main() {
     int choice;
     while (1) {
